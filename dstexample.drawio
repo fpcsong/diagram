@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-03-23T14:13:07.287Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="M-_SMuHe7AO4oWD05vIy" version="14.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-23T14:19:27.339Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="TVVSpeFCBPAbaMvwliA8" version="14.2.5" type="github">
   <diagram id="31zvA7agGlQXblIocceT" name="Page-1">
     <mxGraphModel dx="1422" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="YowXNOrRehKzHkIHZAL_-1" value="Hello, I am trying to find a place to stay that has free wifi and 3 stars. Do you have anything like that?" style="rounded=1;whiteSpace=wrap;align=left;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="YowXNOrRehKzHkIHZAL_-1" value="Hello, I am trying to find a place to stay that has &lt;font color=&quot;#007fff&quot;&gt;free wifi&lt;/font&gt; and &lt;font color=&quot;#007fff&quot;&gt;3&lt;/font&gt; stars. Do you have anything like that?" style="rounded=1;whiteSpace=wrap;align=left;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="120" width="680" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YowXNOrRehKzHkIHZAL_-2" value="I have 5 results that match your criteria, do you have a certain area of town you&#39;d like to stay in or a price range you&#39;re looking for?" style="rounded=1;whiteSpace=wrap;align=left;verticalAlign=middle;horizontal=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="YowXNOrRehKzHkIHZAL_-2" value="I have 5 results that match your criteria, do you have a certain area of town you&amp;#39;d like to stay in or a price range you&amp;#39;re looking for?" style="rounded=1;whiteSpace=wrap;align=left;verticalAlign=middle;horizontal=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="200" width="680" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YowXNOrRehKzHkIHZAL_-3" value="Are any of them a hotel? I don&#39;t want a guesthouse." style="rounded=1;whiteSpace=wrap;align=left;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
@@ -40,7 +40,7 @@
         <mxCell id="YowXNOrRehKzHkIHZAL_-15" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="760" y="360" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Vl2r6L8UvIYRrr-uHbq_-1" value="STATE:{hotel-wifi=yes, hotel-stars=3}" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontSize=14;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="Vl2r6L8UvIYRrr-uHbq_-1" value="&lt;font color=&quot;#050505&quot;&gt;STATE:{&lt;/font&gt;hotel-wifi&lt;font color=&quot;#050505&quot;&gt;=&lt;/font&gt;&lt;font color=&quot;#007fff&quot;&gt;yes&lt;/font&gt;&lt;font color=&quot;#050505&quot;&gt;, &lt;/font&gt;hotel-stars&lt;font color=&quot;#050505&quot;&gt;=&lt;/font&gt;&lt;font color=&quot;#007fff&quot;&gt;3&lt;/font&gt;&lt;font color=&quot;#050505&quot;&gt;}&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontSize=14;fontStyle=1;fontFamily=Times New Roman;fontColor=#CC0000;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="170" width="680" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vl2r6L8UvIYRrr-uHbq_-3" value="User" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;" vertex="1" parent="1">
@@ -55,7 +55,7 @@
         <mxCell id="Vl2r6L8UvIYRrr-uHbq_-6" value="System" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="760" y="380" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Vl2r6L8UvIYRrr-uHbq_-8" value="No preference, I need it for 2 nights starting from Monday for 3 people, and I need a reference number please." style="rounded=1;align=left;whiteSpace=wrap;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="Vl2r6L8UvIYRrr-uHbq_-8" value="No preference, I need it for&lt;font color=&quot;#007fff&quot;&gt; 2&lt;/font&gt; nights starting from &lt;font color=&quot;#007fff&quot;&gt;Monday&lt;/font&gt; for &lt;font color=&quot;#007fff&quot;&gt;3&lt;/font&gt; people, and I need a reference number please." style="rounded=1;align=left;whiteSpace=wrap;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="400" width="680" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Vl2r6L8UvIYRrr-uHbq_-9" value="OK, you are booked into the Gonville Hotel, located in the centre of town on Gonville Place. The reference number is G6FAO56J." style="rounded=1;whiteSpace=wrap;align=left;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -79,11 +79,11 @@
         <mxCell id="Vl2r6L8UvIYRrr-uHbq_-16" value="System" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="760" y="520" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Vl2r6L8UvIYRrr-uHbq_-17" value="STATE:{hotel-wifi=yes, hotel-stars=3}" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontSize=14;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="40" y="310" width="680" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Vl2r6L8UvIYRrr-uHbq_-18" value="STATE:{hotel-wifi=yes, hotel-stars=3, hotel-bookstay=2, hotel-bookpeople=3,hotel-bookday=monday}" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontSize=14;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="Vl2r6L8UvIYRrr-uHbq_-18" value="&lt;font color=&quot;#050505&quot;&gt;STATE:{&lt;/font&gt;hotel-wifi&lt;font color=&quot;#050505&quot;&gt;=&lt;/font&gt;&lt;font color=&quot;#007fff&quot;&gt;yes&lt;/font&gt;&lt;font color=&quot;#050505&quot;&gt;,&amp;nbsp;&lt;/font&gt;hotel-stars&lt;font color=&quot;#050505&quot;&gt;=&lt;/font&gt;&lt;font color=&quot;#007fff&quot;&gt;3&lt;/font&gt;&lt;font color=&quot;#050505&quot;&gt;, &lt;/font&gt;hotel-bookstay&lt;font color=&quot;#050505&quot;&gt;=&lt;/font&gt;&lt;font color=&quot;#007fff&quot;&gt;2&lt;/font&gt;&lt;font color=&quot;#050505&quot;&gt;, &lt;/font&gt;hotel-bookpeople&lt;font color=&quot;#050505&quot;&gt;=&lt;/font&gt;&lt;font color=&quot;#007fff&quot;&gt;3&lt;/font&gt;&lt;font color=&quot;#050505&quot;&gt;,&lt;/font&gt;hotel-bookday&lt;font color=&quot;#050505&quot;&gt;=&lt;/font&gt;&lt;font color=&quot;#007fff&quot;&gt;monday&lt;/font&gt;&lt;font color=&quot;#050505&quot;&gt;}&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontSize=14;fontStyle=1;fontFamily=Times New Roman;fontColor=#CC0000;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="450" width="680" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Vl2r6L8UvIYRrr-uHbq_-19" value="&lt;font color=&quot;#050505&quot;&gt;STATE:{&lt;/font&gt;hotel-wifi&lt;font color=&quot;#050505&quot;&gt;=&lt;/font&gt;&lt;font color=&quot;#007fff&quot;&gt;yes&lt;/font&gt;&lt;font color=&quot;#050505&quot;&gt;, &lt;/font&gt;hotel-stars&lt;font color=&quot;#050505&quot;&gt;=&lt;/font&gt;&lt;font color=&quot;#007fff&quot;&gt;3&lt;/font&gt;&lt;font color=&quot;#050505&quot;&gt;}&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontSize=14;fontStyle=1;fontFamily=Times New Roman;fontColor=#CC0000;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="310" width="680" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
