@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-23T14:11:42.065Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="DW2iOeG4hZLzgTAGKi4I" version="14.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-23T14:13:07.287Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="M-_SMuHe7AO4oWD05vIy" version="14.2.5" type="github">
   <diagram id="31zvA7agGlQXblIocceT" name="Page-1">
     <mxGraphModel dx="1422" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -40,7 +40,7 @@
         <mxCell id="YowXNOrRehKzHkIHZAL_-15" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="760" y="360" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Vl2r6L8UvIYRrr-uHbq_-1" value="state:{hotel-wifi=yes, hotel-stars=3}" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="Vl2r6L8UvIYRrr-uHbq_-1" value="STATE:{hotel-wifi=yes, hotel-stars=3}" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontSize=14;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="40" y="170" width="680" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vl2r6L8UvIYRrr-uHbq_-3" value="User" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;" vertex="1" parent="1">
@@ -79,10 +79,10 @@
         <mxCell id="Vl2r6L8UvIYRrr-uHbq_-16" value="System" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="760" y="520" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Vl2r6L8UvIYRrr-uHbq_-17" value="state:{hotel-wifi=yes, hotel-stars=3}" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="Vl2r6L8UvIYRrr-uHbq_-17" value="STATE:{hotel-wifi=yes, hotel-stars=3}" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontSize=14;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="40" y="310" width="680" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Vl2r6L8UvIYRrr-uHbq_-18" value="state:{hotel-wifi=yes, hotel-stars=3, hotel-bookstay=2, hotel-bookpeople=3,hotel-bookday=monday}" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="Vl2r6L8UvIYRrr-uHbq_-18" value="STATE:{hotel-wifi=yes, hotel-stars=3, hotel-bookstay=2, hotel-bookpeople=3,hotel-bookday=monday}" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontSize=14;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="40" y="450" width="680" height="20" as="geometry" />
         </mxCell>
       </root>
