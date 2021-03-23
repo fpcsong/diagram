@@ -1,62 +1,89 @@
-<mxfile host="app.diagrams.net" modified="2021-03-23T13:57:40.754Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="4owut1cL8h2BUhpU_01U" version="14.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-23T14:00:49.221Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="otxyDwWT6tY38Z5H05oJ" version="14.2.5" type="github">
   <diagram id="31zvA7agGlQXblIocceT" name="Page-1">
     <mxGraphModel dx="1422" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="YowXNOrRehKzHkIHZAL_-1" value="&lt;p class=&quot;md-end-block md-p&quot; style=&quot;box-sizing: border-box ; line-height: inherit ; margin: 0.8em 0px ; position: relative ; color: rgb(51 , 51 , 51) ; font-family: &amp;#34;open sans&amp;#34; , &amp;#34;clear sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 15px&quot;&gt;&lt;span class=&quot;md-plain&quot; style=&quot;box-sizing: border-box&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;Hello, I am trying to find a place to stay that has free wifi and 3 stars. Do you have anything like that?&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;div style=&quot;font-size: 15px&quot;&gt;&lt;span class=&quot;md-plain&quot; style=&quot;box-sizing: border-box&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="40" y="135" width="680" height="40" as="geometry" />
+        <mxCell id="YowXNOrRehKzHkIHZAL_-1" value="&lt;p class=&quot;md-end-block md-p&quot; style=&quot;box-sizing: border-box ; line-height: inherit ; margin: 0.8em 0px ; position: relative ; color: rgb(51 , 51 , 51) ; font-family: &amp;#34;open sans&amp;#34; , &amp;#34;clear sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px&quot;&gt;&lt;span class=&quot;md-plain&quot; style=&quot;box-sizing: border-box&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Hello, I am trying to find a place to stay that has free wifi and 3 stars. Do you have anything like that?&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;span class=&quot;md-plain&quot; style=&quot;box-sizing: border-box&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="40" y="120" width="680" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YowXNOrRehKzHkIHZAL_-2" value="&lt;div style=&quot;line-height: 24px ; font-size: 15px&quot;&gt;&lt;p class=&quot;md-end-block md-p&quot; style=&quot;box-sizing: border-box ; line-height: inherit ; margin: 0.8em 0px ; position: relative ; color: rgb(51 , 51 , 51) ; font-family: &amp;#34;open sans&amp;#34; , &amp;#34;clear sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;&lt;span class=&quot;md-plain&quot; style=&quot;box-sizing: border-box&quot;&gt;I have 5 results that match your criteria, do you have a certain area of town you&#39;d like to stay in or a price range you&#39;re looking for?&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="80" y="220" width="680" height="40" as="geometry" />
+        <mxCell id="YowXNOrRehKzHkIHZAL_-2" value="&lt;div style=&quot;line-height: 24px&quot;&gt;&lt;p class=&quot;md-end-block md-p&quot; style=&quot;box-sizing: border-box ; line-height: inherit ; margin: 0.8em 0px ; position: relative ; color: rgb(51 , 51 , 51) ; font-family: &amp;#34;open sans&amp;#34; , &amp;#34;clear sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;&lt;span class=&quot;md-plain&quot; style=&quot;box-sizing: border-box&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;I have 5 results that match your criteria, do you have a certain area of town you&#39;d like to stay in or a price range you&#39;re looking for?&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="80" y="200" width="680" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YowXNOrRehKzHkIHZAL_-3" value="&lt;div style=&quot;line-height: 24px&quot;&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;open sans&amp;#34; , &amp;#34;clear sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;Are any of them a hotel? I don&#39;t want a guesthouse.&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="40" y="275" width="680" height="40" as="geometry" />
+        <mxCell id="YowXNOrRehKzHkIHZAL_-3" value="&lt;div style=&quot;line-height: 24px&quot;&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;open sans&amp;#34; , &amp;#34;clear sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Are any of them a hotel? I don&#39;t want a guesthouse.&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="40" y="260" width="680" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YowXNOrRehKzHkIHZAL_-4" value="&lt;p class=&quot;md-end-block md-p&quot; style=&quot;box-sizing: border-box ; line-height: inherit ; margin: 0.8em 0px ; position: relative ; color: rgb(51 , 51 , 51) ; font-family: &amp;#34;open sans&amp;#34; , &amp;#34;clear sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 15px&quot;&gt;&lt;span class=&quot;md-plain&quot; style=&quot;box-sizing: border-box&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;Yes there are two hotels. One in the centre and one in the south. Any preference?&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;div style=&quot;font-size: 15px&quot;&gt;&lt;span class=&quot;md-plain&quot; style=&quot;box-sizing: border-box&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="80" y="360" width="680" height="40" as="geometry" />
+        <mxCell id="YowXNOrRehKzHkIHZAL_-4" value="&lt;p class=&quot;md-end-block md-p&quot; style=&quot;box-sizing: border-box ; line-height: inherit ; margin: 0.8em 0px ; position: relative ; color: rgb(51 , 51 , 51) ; font-family: &amp;#34;open sans&amp;#34; , &amp;#34;clear sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px&quot;&gt;&lt;span class=&quot;md-plain&quot; style=&quot;box-sizing: border-box&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Yes there are two hotels. One in the centre and one in the south. Any preference?&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;span class=&quot;md-plain&quot; style=&quot;box-sizing: border-box&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="80" y="340" width="680" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YowXNOrRehKzHkIHZAL_-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e3c800;strokeColor=#B09500;fontColor=#ffffff;shadow=0;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="10" y="135" width="20" height="20" as="geometry" />
+          <mxGeometry x="10" y="120" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YowXNOrRehKzHkIHZAL_-6" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#ffffff;shadow=0;sketch=0;" parent="1" vertex="1">
-          <mxGeometry y="155" width="40" height="20" as="geometry" />
+          <mxGeometry y="140" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YowXNOrRehKzHkIHZAL_-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e3c800;strokeColor=#B09500;fontColor=#ffffff;shadow=0;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="10" y="275" width="20" height="20" as="geometry" />
+          <mxGeometry x="10" y="260" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YowXNOrRehKzHkIHZAL_-11" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#ffffff;shadow=0;sketch=0;" parent="1" vertex="1">
-          <mxGeometry y="295" width="40" height="20" as="geometry" />
+          <mxGeometry y="280" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YowXNOrRehKzHkIHZAL_-12" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="770" y="220" width="20" height="20" as="geometry" />
+          <mxGeometry x="770" y="200" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YowXNOrRehKzHkIHZAL_-13" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="760" y="240" width="40" height="20" as="geometry" />
+          <mxGeometry x="760" y="220" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YowXNOrRehKzHkIHZAL_-14" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="770" y="360" width="20" height="20" as="geometry" />
+          <mxGeometry x="770" y="340" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YowXNOrRehKzHkIHZAL_-15" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="760" y="380" width="40" height="20" as="geometry" />
+          <mxGeometry x="760" y="360" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vl2r6L8UvIYRrr-uHbq_-1" value="\(state:\{\}\)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="185" width="680" height="20" as="geometry" />
+          <mxGeometry x="40" y="170" width="680" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vl2r6L8UvIYRrr-uHbq_-2" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="325" width="680" height="20" as="geometry" />
+          <mxGeometry x="40" y="305" width="680" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vl2r6L8UvIYRrr-uHbq_-3" value="User" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;" vertex="1" parent="1">
-          <mxGeometry y="175" width="40" height="20" as="geometry" />
+          <mxGeometry y="160" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vl2r6L8UvIYRrr-uHbq_-4" value="User" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;" vertex="1" parent="1">
-          <mxGeometry y="315" width="40" height="20" as="geometry" />
+          <mxGeometry y="300" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vl2r6L8UvIYRrr-uHbq_-5" value="System" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="760" y="260" width="40" height="20" as="geometry" />
+          <mxGeometry x="760" y="240" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vl2r6L8UvIYRrr-uHbq_-6" value="System" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="760" y="400" width="40" height="20" as="geometry" />
+          <mxGeometry x="760" y="380" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Vl2r6L8UvIYRrr-uHbq_-8" value="&lt;div style=&quot;line-height: 24px&quot;&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;open sans&amp;#34; , &amp;#34;clear sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;No preference, I need it for 2 nights starting from Monday for 3 people, and I need a reference number please.&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="40" y="400" width="680" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vl2r6L8UvIYRrr-uHbq_-9" value="&lt;p class=&quot;md-end-block md-p&quot; style=&quot;box-sizing: border-box ; line-height: inherit ; margin: 0.8em 0px ; position: relative ; color: rgb(51 , 51 , 51) ; font-family: &amp;#34;open sans&amp;#34; , &amp;#34;clear sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;open sans&amp;#34; , &amp;#34;clear sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;OK, you are booked into the Gonville Hotel, located in the centre of town on Gonville Place. The reference number is G6FAO56J.&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="80" y="480" width="680" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vl2r6L8UvIYRrr-uHbq_-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e3c800;strokeColor=#B09500;fontColor=#ffffff;shadow=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="400" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Vl2r6L8UvIYRrr-uHbq_-11" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#ffffff;shadow=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry y="420" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Vl2r6L8UvIYRrr-uHbq_-12" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="770" y="480" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Vl2r6L8UvIYRrr-uHbq_-13" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="760" y="500" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Vl2r6L8UvIYRrr-uHbq_-14" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="450" width="680" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Vl2r6L8UvIYRrr-uHbq_-15" value="User" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry y="440" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Vl2r6L8UvIYRrr-uHbq_-16" value="System" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="520" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
