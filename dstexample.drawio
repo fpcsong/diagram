@@ -1,19 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2021-03-23T14:03:39.864Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="SskftvSDGcPi8S10r29p" version="14.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-23T14:11:42.065Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="DW2iOeG4hZLzgTAGKi4I" version="14.2.5" type="github">
   <diagram id="31zvA7agGlQXblIocceT" name="Page-1">
     <mxGraphModel dx="1422" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="YowXNOrRehKzHkIHZAL_-1" value="Hello, I am trying to find a place to stay that has free wifi and 3 stars. Do you have anything like that?" style="rounded=1;whiteSpace=wrap;align=left;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="YowXNOrRehKzHkIHZAL_-1" value="Hello, I am trying to find a place to stay that has free wifi and 3 stars. Do you have anything like that?" style="rounded=1;whiteSpace=wrap;align=left;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="40" y="120" width="680" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YowXNOrRehKzHkIHZAL_-2" value="I have 5 results that match your criteria, do you have a certain area of town you&#39;d like to stay in or a price range you&#39;re looking for?" style="rounded=1;whiteSpace=wrap;align=left;verticalAlign=middle;horizontal=1;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="YowXNOrRehKzHkIHZAL_-2" value="I have 5 results that match your criteria, do you have a certain area of town you&#39;d like to stay in or a price range you&#39;re looking for?" style="rounded=1;whiteSpace=wrap;align=left;verticalAlign=middle;horizontal=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="80" y="200" width="680" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YowXNOrRehKzHkIHZAL_-3" value="Are any of them a hotel? I don&#39;t want a guesthouse." style="rounded=1;whiteSpace=wrap;align=left;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="YowXNOrRehKzHkIHZAL_-3" value="Are any of them a hotel? I don&#39;t want a guesthouse." style="rounded=1;whiteSpace=wrap;align=left;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="40" y="260" width="680" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YowXNOrRehKzHkIHZAL_-4" value="Yes there are two hotels. One in the centre and one in the south. Any preference?" style="rounded=1;whiteSpace=wrap;align=left;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="YowXNOrRehKzHkIHZAL_-4" value="Yes there are two hotels. One in the centre and one in the south. Any preference?" style="rounded=1;whiteSpace=wrap;align=left;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="80" y="340" width="680" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YowXNOrRehKzHkIHZAL_-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e3c800;strokeColor=#B09500;fontColor=#ffffff;shadow=0;sketch=0;" parent="1" vertex="1">
@@ -40,11 +40,8 @@
         <mxCell id="YowXNOrRehKzHkIHZAL_-15" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="760" y="360" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Vl2r6L8UvIYRrr-uHbq_-1" value="\(state:\{\}\)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;" vertex="1" parent="1">
+        <mxCell id="Vl2r6L8UvIYRrr-uHbq_-1" value="state:{hotel-wifi=yes, hotel-stars=3}" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="40" y="170" width="680" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Vl2r6L8UvIYRrr-uHbq_-2" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="305" width="680" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vl2r6L8UvIYRrr-uHbq_-3" value="User" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry y="160" width="40" height="20" as="geometry" />
@@ -58,10 +55,10 @@
         <mxCell id="Vl2r6L8UvIYRrr-uHbq_-6" value="System" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="760" y="380" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Vl2r6L8UvIYRrr-uHbq_-8" value="No preference, I need it for 2 nights starting from Monday for 3 people, and I need a reference number please." style="rounded=1;align=left;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Vl2r6L8UvIYRrr-uHbq_-8" value="No preference, I need it for 2 nights starting from Monday for 3 people, and I need a reference number please." style="rounded=1;align=left;whiteSpace=wrap;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="40" y="400" width="680" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Vl2r6L8UvIYRrr-uHbq_-9" value="OK, you are booked into the Gonville Hotel, located in the centre of town on Gonville Place. The reference number is G6FAO56J." style="rounded=1;whiteSpace=wrap;align=left;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Vl2r6L8UvIYRrr-uHbq_-9" value="OK, you are booked into the Gonville Hotel, located in the centre of town on Gonville Place. The reference number is G6FAO56J." style="rounded=1;whiteSpace=wrap;align=left;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="80" y="480" width="680" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Vl2r6L8UvIYRrr-uHbq_-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e3c800;strokeColor=#B09500;fontColor=#ffffff;shadow=0;sketch=0;" vertex="1" parent="1">
@@ -76,14 +73,17 @@
         <mxCell id="Vl2r6L8UvIYRrr-uHbq_-13" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="760" y="500" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Vl2r6L8UvIYRrr-uHbq_-14" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="450" width="680" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="Vl2r6L8UvIYRrr-uHbq_-15" value="User" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry y="440" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vl2r6L8UvIYRrr-uHbq_-16" value="System" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="760" y="520" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Vl2r6L8UvIYRrr-uHbq_-17" value="state:{hotel-wifi=yes, hotel-stars=3}" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="310" width="680" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Vl2r6L8UvIYRrr-uHbq_-18" value="state:{hotel-wifi=yes, hotel-stars=3, hotel-bookstay=2, hotel-bookpeople=3,hotel-bookday=monday}" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="450" width="680" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
