@@ -1,20 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2021-03-24T13:24:58.784Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="7DJoOah4gte0U_vtF0Zj" version="14.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-24T13:28:20.042Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="qD_k1dmH7QKhmfslJBH8" version="14.5.0" type="github">
   <diagram id="YdVSdoXOdbM1lgiWzokO" name="Page-1">
     <mxGraphModel dx="1422" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="6HzFiomqqAH-x-JUUY66-1" value="Pretrained LM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="240" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6HzFiomqqAH-x-JUUY66-2" value="&lt;span&gt;Pretrained LM&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="240" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6HzFiomqqAH-x-JUUY66-6" value="previous state [SEP] system utterance [SEP] user utterance" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6HzFiomqqAH-x-JUUY66-6" value="previous state [SEP] system utterance [SEP] user utterance" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="480" width="520" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6HzFiomqqAH-x-JUUY66-7" value="previous state [SEP] system utterance [SEP] user utterance" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6HzFiomqqAH-x-JUUY66-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="6HzFiomqqAH-x-JUUY66-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6HzFiomqqAH-x-JUUY66-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="6HzFiomqqAH-x-JUUY66-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6HzFiomqqAH-x-JUUY66-7" value="hotel-type is&amp;nbsp; [SEP] system utterance [SEP] user utterance" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="440" width="520" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6HzFiomqqAH-x-JUUY66-10" value="value masked" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="400" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6HzFiomqqAH-x-JUUY66-11" value="values not masked" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="400" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
