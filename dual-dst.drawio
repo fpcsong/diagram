@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-03-24T13:43:49.943Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="5WFn7TIuhiTv75COZ7Ix" version="14.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-24T13:44:37.475Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="1mYjJKUcxRi0TREosEAm" version="14.5.0" type="github">
   <diagram id="YdVSdoXOdbM1lgiWzokO" name="Page-1">
     <mxGraphModel dx="1422" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6HzFiomqqAH-x-JUUY66-1" value="Pretrained LM" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="6HzFiomqqAH-x-JUUY66-1" value="Pretrained LM" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="160" y="240" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6HzFiomqqAH-x-JUUY66-2" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Pretrained LM&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="6HzFiomqqAH-x-JUUY66-2" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Pretrained LM&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="440" y="240" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6HzFiomqqAH-x-JUUY66-6" value="&lt;font color=&quot;#4019ff&quot; style=&quot;font-size: 14px;&quot;&gt;previous state&lt;/font&gt;&lt;font color=&quot;#67ab9f&quot; style=&quot;font-size: 14px;&quot;&gt; &lt;/font&gt;[SEP] &lt;font color=&quot;#ff9933&quot; style=&quot;font-size: 14px;&quot;&gt;system utterance&lt;/font&gt; [SEP] &lt;font color=&quot;#007fff&quot; style=&quot;font-size: 14px;&quot;&gt;user utterance&lt;/font&gt;[SEP] &lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 14px;&quot;&gt;slot description&lt;/font&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
@@ -23,7 +23,7 @@
             <mxPoint x="550" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6HzFiomqqAH-x-JUUY66-7" value="&lt;font color=&quot;#4019ff&quot; style=&quot;font-size: 14px;&quot;&gt;hotel-wifi is yes, hotel-stars is 3&lt;/font&gt; [SEP]&amp;nbsp;&lt;font color=&quot;#ff9933&quot; style=&quot;font-size: 14px;&quot;&gt;Yes there are two hotels. One in the centre and one in the south. Any preference?&lt;/font&gt;&amp;nbsp;[SEP]&amp;nbsp;&lt;font color=&quot;#007fff&quot; style=&quot;font-size: 14px;&quot;&gt;No preference, I need it for&amp;nbsp;2&amp;nbsp;nights starting from&amp;nbsp;Monday&amp;nbsp;for&amp;nbsp;3&amp;nbsp;people, and I need a reference number please.&amp;nbsp;&lt;/font&gt;[SEP]&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 14px;&quot;&gt;hotel-bookday&lt;/font&gt;" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;html=1;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="6HzFiomqqAH-x-JUUY66-7" value="&lt;font color=&quot;#4019ff&quot; style=&quot;font-size: 14px;&quot;&gt;hotel-wifi is yes, hotel-stars is 3&lt;/font&gt; [SEP]&amp;nbsp;&lt;font color=&quot;#ff9933&quot; style=&quot;font-size: 14px;&quot;&gt;Yes there are two hotels. One in the centre and one in the south. Any preference?&lt;/font&gt;&amp;nbsp;[SEP]&amp;nbsp;&lt;font color=&quot;#007fff&quot; style=&quot;font-size: 14px;&quot;&gt;No preference, I need it for&amp;nbsp;2&amp;nbsp;nights starting from&amp;nbsp;Monday&amp;nbsp;for&amp;nbsp;3&amp;nbsp;people, and I need a reference number please.&amp;nbsp;&lt;/font&gt;[SEP]&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 14px;&quot;&gt;hotel-bookday&lt;/font&gt;" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;html=1;fontSize=14;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="160" y="440" width="520" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6HzFiomqqAH-x-JUUY66-10" value="value masked" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
