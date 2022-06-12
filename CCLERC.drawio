@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-11T12:33:31.290Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="K_L2aWTCiaiZl9M7cdE8" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-12T13:12:07.885Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="rEvhSdInyzv8pSdQhprV" version="19.0.3" type="github">
   <diagram id="If2nWtWF-dJY9FGlhHSV" name="Page-1">
-    <mxGraphModel dx="2066" dy="1072" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2066" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,6 +30,36 @@
         </mxCell>
         <mxCell id="z3L6C_gutYaWgmZt_wwa-8" value="encode the emotion of `U_3`" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="130" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MT5wr8F6X-h0F4A-smRm-1" value="&lt;div&gt;752,I am so psyched I kept this chair for myself!,Rachel,joy,positive,71,0,7,13,&quot;00:13:07,620&quot;,&quot;00:13:11,331&quot;&lt;/div&gt;&lt;div&gt;753,&quot;Yeah, me too.&quot;,Joey,neutral,neutral,71,1,7,13,&quot;00:13:15,169&quot;,&quot;00:13:17,253&quot;&lt;/div&gt;&lt;div&gt;756,&quot;Yeah? Wow! Y’know, that this thing has speakers in the headrest!&quot;,Rachel,surprise,positive,71,2,7,13,&quot;00:13:19,715&quot;,&quot;00:13:23,218&quot;&lt;/div&gt;&lt;div&gt;757,No. Really?,Joey,surprise,negative,71,3,7,13,&quot;00:13:24,929&quot;,&quot;00:13:26,346&quot;&lt;/div&gt;&lt;div&gt;758,Yeah! You can hook it up to your TV,Rachel,joy,positive,71,4,7,13,&quot;00:13:26,514&quot;,&quot;00:13:29,015&quot;&lt;/div&gt;&lt;div&gt;759,My chair heals itself.,Joey,neutral,neutral,71,5,7,13,&quot;00:13:34,563&quot;,&quot;00:13:36,731&quot;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="440" width="750" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="MT5wr8F6X-h0F4A-smRm-2" value="[Phoebe]:Absolutely, oh I promise. Tell her what?" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1045" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MT5wr8F6X-h0F4A-smRm-3" value="[Pete]:Thanks a lot." style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1095" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MT5wr8F6X-h0F4A-smRm-5" value="[Carol]:I don&#39;t care. I am trying to get a person out of my body here, and you&#39;re not making it any easier.&amp;nbsp;Now go!" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="120" y="870" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MT5wr8F6X-h0F4A-smRm-6" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;[Ross]:Thanks a lot.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="160" y="920" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MT5wr8F6X-h0F4A-smRm-8" value="[Pete]:Listen, can you promise me that you won’t tell her though?" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="120" y="995" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MT5wr8F6X-h0F4A-smRm-12" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="975" as="sourcePoint" />
+            <mxPoint x="540" y="974.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MT5wr8F6X-h0F4A-smRm-13" value="angry" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="875" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MT5wr8F6X-h0F4A-smRm-14" value="angry" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="925" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
